@@ -1,0 +1,5 @@
+function getValueFromJSON(objectString, key) {
+      const obj = JSON.parse(objectString);
+      // console.log(JSON.stringify(obj))
+      return obj[key]
+}
