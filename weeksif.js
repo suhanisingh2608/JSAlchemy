@@ -1,0 +1,25 @@
+if(index==1){
+    console.log("Monday")
+    }
+    if(index==2){
+    console.log("Tuesday")
+    }
+    if(index==3){
+    console.log("Wednesday")
+    }
+    if(index==4){
+    console.log("Thursday")
+    }
+    if(index==5){
+    console.log("Friday")
+    }
+    if(index==6){
+    console.log("Saturday")
+    }
+    if(index==7){
+    console.log("Sunday")
+    }
+    if(7<index<1){
+        console.log("Invalid")
+    }
+    
