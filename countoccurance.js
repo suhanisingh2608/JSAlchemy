@@ -13,3 +13,4 @@ function countCharacters(str) {
     return count;
 }
 
+
